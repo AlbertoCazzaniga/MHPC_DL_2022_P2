@@ -13,7 +13,9 @@ This is the **Deep Learning** part of the Unsupervised Learning Course of the Ma
 
 **Second Part**
 
-TO APPEAR
+- Introduction to the basics of representation learning
+- Autoencoders
+- ...
 
 # Teachers
 
@@ -56,7 +58,9 @@ Michael Nielsen's online book, [image kernels](https://setosa.io/ev/image-kernel
 
 **Day 4**
 
-TO APPEAR
+- What is a "good representation"?
+- From Principal Component Analysis to Autoencoders
+- Autoencoders: construction, properties and drawbacks
 
 **Day 5**
 
