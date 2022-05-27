@@ -15,7 +15,7 @@ This is the **Deep Learning** part of the Unsupervised Learning Course of the Ma
 
 - Introduction to the basics of representation learning
 - Autoencoders
-- ...
+- Variational autoencoders
 
 # Teachers
 
@@ -64,7 +64,11 @@ Michael Nielsen's online book, [image kernels](https://setosa.io/ev/image-kernel
 
 **Day 5**
 
-TO APPEAR
+- The objective of VAEs
+- Construction and loss function
+- Reparameterization trick and learning algorithm
+
+Two different and somewhat complementary references are [DOERSCH](https://arxiv.org/pdf/1606.05908.pdf) and [Kingma, Welling](https://arxiv.org/pdf/1906.02691.pdf)
 
 # Exam
 
