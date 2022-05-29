@@ -72,7 +72,7 @@ Two different and somewhat complementary references are [[Doersch]](https://arxi
 
 # Exam
 
-TO APPEAR
+You might want to start to take a look at [[Ding, et al.]](https://www.nature.com/articles/s41467-019-13633-0.pdf).
 
 # Resources
 
